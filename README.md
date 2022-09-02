@@ -5,3 +5,4 @@ Exercise project from Odin.
 References for the used images are below.
 
 Francesco Ungaro - https://www.pexels.com/photo/blue-and-orange-wooden-pathway-96420/
+Icongeek26 - https://www.flaticon.com/
